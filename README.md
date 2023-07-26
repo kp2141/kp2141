@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Side projects**
 
-- 🌱 I’m currently learning **SpringBoot, React and other Frameworks and HLD(High Level Design) and LLD(Low Level Design) Patterns**
+- 🌱 I’m currently learning **SpringBoot, React, HLD(High Level Design) and LLD(Low Level Design) Patterns**
 
 - 💬 Ask me about **Data Structures and Algorithm, Java, Python**
 
