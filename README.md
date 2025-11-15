@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Side projects**
 
-- 🌱 I’m currently learning **SpringBoot, React, HLD(High Level Design) and LLD(Low Level Design) Patterns**
+- 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, Data science**
 
-- 💬 Ask me about **Data Structures and Algorithm, Java, Python**
+- 💬 Ask me about **AI, ML, Data Science, Data Structures and Algorithm, Python**
 
 - 📫 How to reach me **kp2141krp@gmail.com**
 
